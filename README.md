@@ -32,7 +32,6 @@
   - [Usage](#usage)
   - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -117,3 +116,4 @@ Commit your changes: git commit -m "Add some feature"
 Push to the branch: git push origin feature/your-feature
 
 Open a Pull Request
+
