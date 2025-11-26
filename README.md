@@ -5,19 +5,15 @@ Transform Tasks into Triumphs with Seamless Efficiency
 <p align="center"> <img src="https://img.shields.io/github/last-commit/arpitsingh39/ToDoList?style=for-the-badge" /> <img src="https://img.shields.io/github/languages/top/arpitsingh39/ToDoList?style=for-the-badge" /> <img src="https://img.shields.io/github/languages/count/arpitsingh39/ToDoList?style=for-the-badge" /> </p>
 🚀 Built With
 <p> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/NPM-CB0000?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> </p>
-📚 Table of Contents
 
-Overview
+## Table of Contents
+- [Overview](#-overview)
+- [Getting Started](#%EF%B8%8F-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 
-Getting Started
-
-Prerequisites
-
-Installation
-
-Usage
-
-Testing
 
 🔍 Overview
 
@@ -81,3 +77,4 @@ npm start
 Run the test suite with:
 
 npm test
+
