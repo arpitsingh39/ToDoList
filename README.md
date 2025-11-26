@@ -1,8 +1,11 @@
-ToDoList
+📝 ToDoList
 
 Transform Tasks into Triumphs with Seamless Efficiency
 
-Table of Contents
+<p align="center"> <img src="https://img.shields.io/github/last-commit/arpitsingh39/ToDoList?style=for-the-badge" /> <img src="https://img.shields.io/github/languages/top/arpitsingh39/ToDoList?style=for-the-badge" /> <img src="https://img.shields.io/github/languages/count/arpitsingh39/ToDoList?style=for-the-badge" /> </p>
+🚀 Built With
+<p> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/NPM-CB0000?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> </p>
+📚 Table of Contents
 
 Overview
 
@@ -16,67 +19,65 @@ Usage
 
 Testing
 
-Overview
+🔍 Overview
 
-ToDoList is a modern, React-based task management application designed to deliver a smooth user experience and maintainable codebase. Built with a modular component architecture, it simplifies task addition, deletion, and state management, making it ideal for both users and developers.
+ToDoList is a modern React-based task management application designed to deliver a smooth user experience and a maintainable codebase.
+Built with a modular component architecture, it simplifies task addition, deletion, and state management, making it ideal for both users and developers.
 
-Why ToDoList?
+💡 Why ToDoList?
 
-This project empowers developers to create scalable, interactive web apps with a focus on clean architecture and modern tooling. The core features include:
+This project empowers developers to create scalable, interactive web apps with clean architecture and modern tooling.
 
-🧩 Component-Driven Design:
+⭐ Core Features
+
+🧩 Component-Driven Design
 Modular React components like Header, Input, and TaskDisplay ensure maintainability and reusability.
 
-🚀 Optimized Development Workflow:
-Configured with Vite and ESLint for fast builds and code quality enforcement.
+🚀 Optimized Development Workflow
+Powered by Vite and ESLint for fast builds and high-quality code enforcement.
 
-🎯 Intuitive User Interaction:
-Seamless task addition, deletion, and real-time updates for a responsive experience.
+🎯 Intuitive User Interaction
+Smooth task addition, deletion, and real-time dynamic updates.
 
-📁 Clear Project Structure:
-Well-organized source code and configuration files facilitate onboarding and collaboration.
+📁 Clear Project Structure
+Clean source code and configurable files for easy onboarding and collaboration.
 
-⚙️ Streamlined Build & Deployment:
-Automated scripts and configurations support efficient deployment cycles.
+⚙️ Streamlined Build & Deployment
+Automated scripts simplify testing and deployment cycles.
 
-Getting Started
-Prerequisites
+🛠️ Getting Started
+✔️ Prerequisites
 
-This project requires the following dependencies:
+Ensure you have the following installed:
 
-Programming Language: JavaScript
+JavaScript
 
-Package Manager: npm
+npm (Node Package Manager)
 
-Installation
+📦 Installation
 
-Build ToDoList from the source and install dependencies:
+Follow these steps to set up the project locally:
 
-1. Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/arpitsingh39/ToDoList
 
-2. Navigate to the project directory
+2️⃣ Navigate to the project directory
 cd ToDoList
 
-3. Install the dependencies
+3️⃣ Install dependencies
 
 Using npm:
 
 npm install
 
-Usage
+▶️ Usage
 
-Run the project with:
-
-Using npm:
+Start the project with:
 
 npm start
 
-Testing
+🧪 Testing
 
-Todolist uses the {test_framework} test framework.
 Run the test suite with:
-
-Using npm:
 
 npm test
